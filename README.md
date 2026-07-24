@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/Monika-KU/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
+| [0207-course-schedule](https://github.com/Monika-KU/leetcode/tree/master/0207-course-schedule) |
 ## Binary Tree
 |  |
 | ------- |
@@ -23,4 +24,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Monika-KU/leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/Monika-KU/leetcode/tree/master/0207-course-schedule) |
+## Graph Theory
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/Monika-KU/leetcode/tree/master/0207-course-schedule) |
+## Topological Sort
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/Monika-KU/leetcode/tree/master/0207-course-schedule) |
 <!---LeetCode Topics End-->
