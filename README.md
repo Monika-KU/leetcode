@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Monika-KU/leetcode/tree/master/0014-longest-common-prefix) |
+| [0039-combination-sum](https://github.com/Monika-KU/leetcode/tree/master/0039-combination-sum) |
 ## Trie
 |  |
 | ------- |
@@ -74,4 +75,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Monika-KU/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Backtracking
+|  |
+| ------- |
+| [0039-combination-sum](https://github.com/Monika-KU/leetcode/tree/master/0039-combination-sum) |
 <!---LeetCode Topics End-->
