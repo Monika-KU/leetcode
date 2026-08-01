@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Monika-KU/leetcode/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/Monika-KU/leetcode/tree/master/0039-combination-sum) |
 | [0047-permutations-ii](https://github.com/Monika-KU/leetcode/tree/master/0047-permutations-ii) |
+| [0064-minimum-path-sum](https://github.com/Monika-KU/leetcode/tree/master/0064-minimum-path-sum) |
 ## Trie
 |  |
 | ------- |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0064-minimum-path-sum](https://github.com/Monika-KU/leetcode/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/Monika-KU/leetcode/tree/master/0070-climbing-stairs) |
 ## Memoization
 |  |
@@ -123,4 +125,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0047-permutations-ii](https://github.com/Monika-KU/leetcode/tree/master/0047-permutations-ii) |
+## Matrix
+|  |
+| ------- |
+| [0064-minimum-path-sum](https://github.com/Monika-KU/leetcode/tree/master/0064-minimum-path-sum) |
 <!---LeetCode Topics End-->
