@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/Monika-KU/leetcode/tree/master/0039-combination-sum) |
 | [0047-permutations-ii](https://github.com/Monika-KU/leetcode/tree/master/0047-permutations-ii) |
 | [0064-minimum-path-sum](https://github.com/Monika-KU/leetcode/tree/master/0064-minimum-path-sum) |
+| [0455-assign-cookies](https://github.com/Monika-KU/leetcode/tree/master/0455-assign-cookies) |
 ## Trie
 |  |
 | ------- |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Monika-KU/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0455-assign-cookies](https://github.com/Monika-KU/leetcode/tree/master/0455-assign-cookies) |
 ## String Matching
 |  |
 | ------- |
@@ -132,8 +134,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0047-permutations-ii](https://github.com/Monika-KU/leetcode/tree/master/0047-permutations-ii) |
+| [0455-assign-cookies](https://github.com/Monika-KU/leetcode/tree/master/0455-assign-cookies) |
 ## Matrix
 |  |
 | ------- |
 | [0064-minimum-path-sum](https://github.com/Monika-KU/leetcode/tree/master/0064-minimum-path-sum) |
+## Greedy
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/Monika-KU/leetcode/tree/master/0455-assign-cookies) |
+## Quicksort
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/Monika-KU/leetcode/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
