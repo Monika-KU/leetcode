@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/Monika-KU/leetcode/tree/master/0047-permutations-ii) |
 | [0064-minimum-path-sum](https://github.com/Monika-KU/leetcode/tree/master/0064-minimum-path-sum) |
 | [0455-assign-cookies](https://github.com/Monika-KU/leetcode/tree/master/0455-assign-cookies) |
+| [0860-lemonade-change](https://github.com/Monika-KU/leetcode/tree/master/0860-lemonade-change) |
 ## Trie
 |  |
 | ------- |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/Monika-KU/leetcode/tree/master/0455-assign-cookies) |
+| [0860-lemonade-change](https://github.com/Monika-KU/leetcode/tree/master/0860-lemonade-change) |
 ## Quicksort
 |  |
 | ------- |
