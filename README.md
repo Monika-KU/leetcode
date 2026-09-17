@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0060-permutation-sequence](https://github.com/Monika-KU/leetcode/tree/master/0060-permutation-sequence) |
 | [0067-add-binary](https://github.com/Monika-KU/leetcode/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/Monika-KU/leetcode/tree/master/0070-climbing-stairs) |
+| [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Monika-KU/leetcode/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 ## String
 |  |
 | ------- |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/Monika-KU/leetcode/tree/master/0064-minimum-path-sum) |
 | [0455-assign-cookies](https://github.com/Monika-KU/leetcode/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/Monika-KU/leetcode/tree/master/0860-lemonade-change) |
+| [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Monika-KU/leetcode/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 ## Trie
 |  |
 | ------- |
@@ -145,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0455-assign-cookies](https://github.com/Monika-KU/leetcode/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/Monika-KU/leetcode/tree/master/0860-lemonade-change) |
+| [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Monika-KU/leetcode/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 ## Quicksort
 |  |
 | ------- |
