@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/Monika-KU/leetcode/tree/master/0039-combination-sum) |
 | [0047-permutations-ii](https://github.com/Monika-KU/leetcode/tree/master/0047-permutations-ii) |
 | [0064-minimum-path-sum](https://github.com/Monika-KU/leetcode/tree/master/0064-minimum-path-sum) |
+| [0238-product-of-array-except-self](https://github.com/Monika-KU/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0455-assign-cookies](https://github.com/Monika-KU/leetcode/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/Monika-KU/leetcode/tree/master/0860-lemonade-change) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Monika-KU/leetcode/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
@@ -152,4 +153,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/Monika-KU/leetcode/tree/master/0455-assign-cookies) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/Monika-KU/leetcode/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
