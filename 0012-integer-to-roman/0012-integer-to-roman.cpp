@@ -16,16 +16,13 @@ public:
             {4, "IV"},
             {1, "I"}
         };
-
         string ans = "";
-
         for (auto it : roman) {
             while (num >= it.first) {
                 ans += it.second;
                 num -= it.first;
             }
         }
-
         return ans;
     }
 };
